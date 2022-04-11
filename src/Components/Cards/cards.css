@@ -31,7 +31,7 @@
     transition: all 0.2s ease-in-out;
 }
 
-btn:hover
+.btn:hover
 {
     background-color: #219EBC !important;
     color: #fff;
@@ -39,10 +39,9 @@ btn:hover
     transition: all 0.3s linear;
 }
 
-btn:visited
+.btn:visited
 {
     background-color: #219EBC !important;
-    color: #fff;
+    color: #219EBC;
     border: #219EBC !important;
-    transition: all 0.3s linear;
 }
